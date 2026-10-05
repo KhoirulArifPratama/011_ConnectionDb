@@ -5,3 +5,5 @@
 # Tampilan testing running di postman
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1abdcb78-3900-43e6-b70d-dad00af25d30" />
 
+# Prompt request
+<img width="821" height="438" alt="image" src="https://github.com/user-attachments/assets/4a4ded84-6cc4-4c07-8578-105a7e9617de" />
